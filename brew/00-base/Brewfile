@@ -1,3 +1,7 @@
+# /Users/morifen/github/scripts/brew/00-base/Brewfile
+# https://github.com/marcbernardoni/scripts/blob/main/brew/00-base/Brewfile
+
+# Adding taps (repo) on top as I was getting errors
 tap "FelixKratz/formulae"
 
 brew "wget"			# Internet file retriever
